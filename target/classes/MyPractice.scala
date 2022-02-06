@@ -1,0 +1,4 @@
+class MyPractice {
+  println("hello")
+
+}
